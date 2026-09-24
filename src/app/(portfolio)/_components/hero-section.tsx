@@ -1,6 +1,6 @@
 export function HeroSection() {
   return (
-    <section className="flex flex-1 flex-col items-center justify-center gap-6 text-center">
+    <section className="flex min-h-[calc(100svh-5rem)] flex-col items-center justify-center gap-6 text-center">
       <h1 className="font-heading text-6xl font-bold tracking-tight">
         The Future Is Just an Unbuilt Idea.
       </h1>
